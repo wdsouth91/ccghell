@@ -212,7 +212,6 @@ exclude:
   - "*.gemspec"
   - docs
   - tools
-  # - README.md
   - LICENSE
   - purgecss.js
   - rollup.config.js
